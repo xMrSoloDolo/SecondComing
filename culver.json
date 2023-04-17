@@ -4,9 +4,9 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "pangle",
-        "InterAd": "pangle",
+        "InterAd": "max",
         "NativeAd": "pangle",
 	"EnableBnr_Ntv":true,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -50,14 +50,14 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
-			"popUpLink": "https://google.com",
-			"popUpName": "Normal Popup",
-			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif"
+			"popUpActive": true,
+			"popUpLink": "https://giftcardway.com/",
+			"popUpName": "GET FREE GIFT CARD",
+			"popImage": "https://i.ibb.co/T88nHcY/culvrs.jpg"
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
 		"phoneSystemActivity": false,
 	    
@@ -78,24 +78,24 @@
                 "CaptchaActivity":true,
 	    
 	    
-		"extraButton1Active": true,
+		"extraButton1Active": false,
 		"extraButton1Title": "Extra 1",
 		"extraButton1Url": "https://kooora.com",
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "ok",
+		"enterButtonText": "ENTER HERE",
 		"webview": {
-			"active": false,
-			"url": "https://google.com",
+			"active": true,
+			"url": "https://www.culvers.com/",
 			
 			
 			
-			"popUpActive": false,
-			"popUpLink": "https://google.com",
-			"popUpName": "Browser App",
-			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-			"popUpTimer": 20000
+			"popUpActive": true,
+			"popUpLink": "https://giftcardway.com/",
+			"popUpName": "GET FREE GIFT CARD",
+			"popImage": "https://i.ibb.co/T88nHcY/culvrs.jpg",
+			"popUpTimer": 30000
 		}
     }
 }
