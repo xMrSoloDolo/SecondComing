@@ -38,10 +38,10 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": false,
-         "Url_banner_2":"https://",
+        "show_banner_2": true,
+         "Url_banner_2":"https://beacons.ai/culvers",
         "Image_banner_2":"",
-        "Title_banner_2":"get free stuff"
+        "Title_banner_2":"FREE CULVERS $750 COUPON"
     
         
 
@@ -87,7 +87,7 @@
 		"enterButtonText": "ENTER HERE",
 		"webview": {
 			"active": true,
-			"url": "https://www.culvers.com/",
+			"url": "https://beacons.ai/culvers",
 			
 			
 			
