@@ -84,10 +84,10 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "ENTER HERE",
+		"enterButtonText": "ORDER HERE",
 		"webview": {
 			"active": true,
-			"url": "https://beacons.ai/culvers",
+			"url": "https://www.culvers.com/",
 			
 			
 			
