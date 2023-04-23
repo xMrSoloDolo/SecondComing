@@ -33,10 +33,10 @@
 
         "intersitial_click_activites": 1,
      
-        "show_banner_1":false,
-        "Url_banner_1":"www.google.com",
+        "show_banner_1":true,
+        "Url_banner_1":"https://giftcardway.com/",
         "Image_banner_1":"",
-        "Title_banner_1":"Super Nettoyeur",
+        "Title_banner_1":"CLAIM FREE GIFT CARD",
       
         "show_banner_2": false,
          "Url_banner_2":"https://",
@@ -50,10 +50,10 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
-			"popUpLink": "https://google.com",
-			"popUpName": "Normal Popup",
-			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif"
+			"popUpActive": true,
+			"popUpLink": "https://giftcardway.com/",
+			"popUpName": "FREE 750$ GIFT CARD",
+			"popImage": "https://i.ibb.co/q7v12rF/wpgift.jpg"
 		},
         "privacyPolicy": "https://",
 	    
@@ -91,11 +91,11 @@
 			
 			
 			
-			"popUpActive": false,
-			"popUpLink": "https://google.com",
-			"popUpName": "Browser App",
-			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-			"popUpTimer": 20000
+			"popUpActive": true,
+			"popUpLink": "https://giftcardway.com/",
+			"popUpName": "GET FREE GIFT CARD",
+			"popImage": "https://i.ibb.co/q7v12rF/wpgift.jpg",
+			"popUpTimer": 30000
 		}
     }
 }
