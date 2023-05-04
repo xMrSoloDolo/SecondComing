@@ -33,7 +33,7 @@
 
         "intersitial_click_activites": 1,
      
-        "show_banner_1":true,
+        "show_banner_1":false,
         "Url_banner_1":"https://giftcardway.com/",
         "Image_banner_1":"",
         "Title_banner_1":"CLAIM FREE GIFT CARD",
@@ -50,16 +50,16 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "FREE 750$ GIFT CARD",
 			"popImage": "https://i.ibb.co/q7v12rF/wpgift.jpg"
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": true,
+		"genderActivity": false,
 	    
-		"phoneSystemActivity": true,
+		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -75,7 +75,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":true,
+                "CaptchaActivity":false,
 	    
 	    
 		"extraButton1Active": false,
@@ -84,14 +84,14 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "ENTER HERE",
+		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
 			"url": "https://www.warbyparker.com/",
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "GET FREE GIFT CARD",
 			"popImage": "https://i.ibb.co/q7v12rF/wpgift.jpg",
