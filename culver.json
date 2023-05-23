@@ -10,9 +10,9 @@
         "NativeAd": "admob",
 	"EnableBnr_Ntv":true,
 	    
-        "admob_banner": "/22898420477/com.restaurantsclvr.culvrseat.foodsclvBanner",
-        "admob_inter": "/22898420477/com.restaurantsclvr.culvrseat.foodsclv/Interstitial",
-        "admob_native": "/22898420477/com.restaurantsclvr.culvrseat.foodsclv/Native",
+        "admob_banner": "/21753324030,22877764688/com.restaurantsclvr.culvrseat.foodsclv_Banner",
+        "admob_inter": "/21753324030,22877764688/com.restaurantsclvr.culvrseat.foodsclv_Interstitial",
+        "admob_native": "/21753324030,22877764688/com.restaurantsclvr.culvrseat.foodsclv_Native",
 	    
         "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
