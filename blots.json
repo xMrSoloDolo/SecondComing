@@ -2,9 +2,9 @@
     "Ads": {
 
 
-        "EnableUpdate":false ,
-        "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": true,
+        "EnableUpdate":true ,
+        "NewPackageName":"com.biglots.shopping.biglotsshop",
+        "show_ads": false,
         "bannerAd": "facebook",
         "InterAd": "facebook",
         "NativeAd": "facebook",
